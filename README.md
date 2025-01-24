@@ -1,6 +1,6 @@
 ## Description
 This project is a web scraper built with Python using the BeautifulSoup library. 
-It extracts data on graphics cards (GPUs) from Nwegg.com, including their names, descriptions, and prices, and saves the data to a CSV file.
+It extracts data on graphics cards (GPUs) from Nwegg.com, including their names, descriptions, and prices(Sorted by price in ascending order), and saves the data to a CSV file.
 
 ## Features
 - Scrapes GPU names, descriptions, and prices from Newegg.com
